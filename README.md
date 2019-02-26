@@ -1,2 +1,2 @@
-# Gradient_Decsent
-Gradient_Decsent_in_Python.
+# Gradient_Descent
+Gradient_Descent_in_Python.
